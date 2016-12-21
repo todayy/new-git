@@ -1,0 +1,19 @@
+{
+  "name": "mygit",
+  "version": "1.0.0",
+  "description": "第一个git库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todayy/new-git.git"
+  },
+  "author": "wsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todayy/new-git/issues"
+  },
+  "homepage": "https://github.com/todayy/new-git#readme"
+}
